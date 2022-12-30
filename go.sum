@@ -13,8 +13,8 @@ github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 h1:YLtO71vCjJRCBcrPMtQ9nqBsqpA1
 github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1/go.mod h1:hyedUtir6IdtD/7lIxGeCxkaw7y45JueMRL4DIyJDKs=
 github.com/ethereum/go-ethereum v1.10.26 h1:i/7d9RBBwiXCEuyduBQzJw/mKmnvzsN14jqBmytw72s=
 github.com/ethereum/go-ethereum v1.10.26/go.mod h1:EYFyF19u3ezGLD4RqOkLq+ZCXzYbLoNDdZlMt7kyKFg=
-github.com/ethersphere/bee v1.10.0-rc13 h1:WQHYcDgXtXM007YC/E0+TfWO0aLq6UU1S8u74h5jEag=
-github.com/ethersphere/bee v1.10.0-rc13/go.mod h1:cIrWJ0TgiX9lUOW6TUXqQkIQsY2l0JzpswtxGs0dGcs=
+github.com/ethersphere/bee v1.10.0 h1:GVMO/aTgxNFX6IZyBYJKoR8OFnEjJjQnuQPuY/M75zs=
+github.com/ethersphere/bee v1.10.0/go.mod h1:zy0U2o4EvOKiRKb67TdZnSOP8tTnrc62+bsJCgqeEPs=
 github.com/go-ole/go-ole v1.2.5 h1:t4MGB5xEDZvXI+0rMjjsfBsD7yAgp/s9ZDkL1JndXwY=
 github.com/go-stack/stack v1.8.0 h1:5SgMzNM5HxrEjV0ww2lTmX6E2Izsfxas4+YHWRs3Lsk=
 github.com/golang/snappy v0.0.4 h1:yAGX7huGHXlcLOEtBnF4w7FQwA26wojNCwOYAEhLjQM=

@@ -1,11 +1,11 @@
 module github.com/fairdatasociety/fairOS-dfs-utils
 
-go 1.17
+go 1.18
 
 require (
 	github.com/btcsuite/btcd v0.22.3
 	github.com/ethereum/go-ethereum v1.10.26
-	github.com/ethersphere/bee v1.10.0-rc13
+	github.com/ethersphere/bee v1.10.0
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
 )
 
